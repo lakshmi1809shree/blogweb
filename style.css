@@ -1,0 +1,203 @@
+.my-btn-nav{
+    background: rgba(255, 0, 214, 1);
+    color: white;
+}
+.my-btn-nav-2{
+    background-color: white;
+    border: 2px solid #FF00D6;
+    height:2.4rem ;
+    border-radius: 4px;
+    color:#FF00D6 ;
+}
+.img-29{
+    height: 25rem;
+    width: 60rem;
+    margin-top: 2rem;
+}
+.my-ul{
+    list-style: none;
+}
+.my-flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    
+}
+.my-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(245, 245, 245, 1);
+    border: 2px solid black;
+    height: 40px;
+    width: 120px;
+}
+.my-img-love{
+   margin-top: 0.4rem;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.my-btn-2{
+  display: flex;
+  justify-content: space-around;
+  height: 40px;
+  width: 200px;
+  margin: 20px;
+  background-color: rgba(245, 245, 245, 1);
+  border: 2px solid black;
+}
+.comment-1{
+    display: flex;
+    flex-direction: row;
+    margin-top:2.5rem;
+}
+.my-img-com1,.my-img-com2{
+    margin: 1rem;
+}
+.my-com-content{
+     background: rgba(244, 244, 244, 1);
+     height: 7rem;
+     width: 52rem;
+    border: 2px solid black;
+}
+
+.comment-2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+.my-com2-con{
+    display: flex;
+    flex-direction: column;
+}
+.my-img-com2{
+    height: 5rem;
+    width: 5rem;
+    margin-right: 2rem;
+}
+.my-com2-content{
+    background: rgba(244, 244, 244, 1);
+    height: 21rem;
+    
+    width: 51.5rem;
+   border: 2px solid black;
+}
+.my-com2-user{
+    display: flex;
+    flex-direction:row ;
+}
+.com2-likes{
+    display: flex;
+    flex-direction: row;
+}
+.com2-like,.com2-comment{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1.5rem;
+    
+}
+.com2-comment{
+    margin-left: 1rem;
+}
+.com2-like-img{
+    height: 1.5rem;
+    width:1.5rem;
+}
+.trend-post-1{
+    display: flex;
+    flex-direction: row;
+    height: 10rem;
+}
+.trend1-img{
+    flex:1;
+    width: 8rem;
+}
+.trend1-content{
+    flex:4;
+    align-self:center ;
+    justify-self: center;
+    padding: 2rem;
+   
+}
+.trend-user-text{
+    color: rgba(5, 0, 255, 1);
+}
+.trend1-date{
+    display: flex;
+    flex-direction: row;
+}
+.trend1-time-img{
+    margin-top: 2px;
+    height: 1.2rem;
+    width: 1.2rem;
+}
+.trend-hr{
+    width:440px;
+    color: black;
+    border-top: 1px solid black;
+}
+.newsletter-div{
+    background-color: rgba(247, 247, 247, 1);
+    padding: 2rem;
+    margin: 1rem;
+    margin-top: 5rem;
+    border:1px solid black;
+    border-radius: 1rem;
+    box-shadow: 7px 5px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.news-btn-div{
+    display: flex;
+    flex-direction: column;
+}
+.newsletter-btn{
+    background-color: rgba(204, 0, 255, 1);
+    margin-top: 1rem;
+}
+.img-37-div{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.img-37{
+    margin-top: 5rem;
+    width: 27rem;
+}
+.ad2{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.ad2-div{
+    margin-top: 5rem;
+    background-color:  rgba(247, 247, 247, 1);
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    width: 27rem;
+    height: 37rem;
+}
+.ad2-content{
+    margin: 2rem;
+    padding: 1rem;
+}
+.more-blogs{
+    padding: 0 4rem;
+    display: flex;
+    flex-direction: row;
+}
+.footer-div{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+    background: rgba(196, 196, 196, 1);
+    height: 20rem;
+}
+.footer-text{
+    align-self: center;
+    justify-self:center ;
+    font-size: 6rem;
+    font-weight: 600;
+}
